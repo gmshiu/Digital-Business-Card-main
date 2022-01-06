@@ -1,0 +1,34 @@
+.footer {
+    display: flex;
+    background-color: #23252C;
+    justify-content: center;
+    align-items: center;
+    width: 314px;
+    height: 84px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+  }
+  
+  .socialMedia {
+    display: flex;
+    gap: 70px;
+    padding: 40px;
+  }
+  
+  .socialIcons {
+    width: 35px;
+    /*position: absolute;
+    left: 34.36%;
+    right: 61.09%;
+    bottom: 7.37%;*/
+  }
+
+  
+  .socialIcons:hover,
+  .socialIcons:focus {
+ background-color: #161619;
+  }
+
+  .github {
+      background: #7DBBE6;
+  }
