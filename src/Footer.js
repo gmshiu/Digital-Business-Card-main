@@ -15,7 +15,7 @@ export default function Footer() {
            > 
            <SocialIcon url="https://github.com/gmshiu" className={styles.github}/>
            </a>
-           <a >
+           <a>
             <SocialIcon url="https://linkedin.com/in/godwin-mshiu"/>
            </a>
            <a
