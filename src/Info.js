@@ -16,7 +16,7 @@ export default function Info() {
             target="_blank"
             rel="noopener noreferrer"
             className={`${styles.links} ${styles.email}`}
-            href="mailto:mshiu95@com"
+            href="mailto:not.descartes@gmail.com"
           >
             <img className={styles.icons} src="Email-logo.png" alt="" /> Email
           </a>
