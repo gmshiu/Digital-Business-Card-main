@@ -6,7 +6,7 @@ export default function Interests() {
         <div>
             <nav className={styles.interest}>
             <h3 className={styles.header}>Interests</h3>
-            <p className={styles.texts}>Hiking, video games, cooking, podcasts, traveling, IPA fanatic</p>
+            <p className={styles.texts}>Hiking, video games, cooking, podcasts, traveling, IPA fanatic 🍺</p>
             </nav>
         </div>
     )
